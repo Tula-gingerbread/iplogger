@@ -1,9 +1,5 @@
-debug = True
+debug = False
 port = 80
-
-#loggers = [
-    #'logger1'
-#]
 
 loggers = {
     'how_to_bake_a_cake': 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
